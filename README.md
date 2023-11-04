@@ -2,7 +2,7 @@
 
 ### 1. Introduction
 
-We've developed a Flask application that supports user registration, login, and CRUD operations for employees. We've implemented JWT authentication using `flask-jwt-extended`, and added extra functionality to handle token revocation and error handling.
+I Have developed a Flask application that supports user registration, login, and CRUD operations for employees. We've implemented JWT authentication using `flask-jwt-extended`, and added extra functionality to handle token revocation and error handling.
 
 ### 2. Database Setup
 
